@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Geologica', sans-serif;
+}
+
+::-webkit-scrollbar {
+    display: none;
+    visibility: hidden;
+    opacity: 0
+}
+
+.container h1 a:hover {
+    opacity: 0.7;
+}
+
+.container ul li a:hover {
+    opacity: 0.7;
+}
